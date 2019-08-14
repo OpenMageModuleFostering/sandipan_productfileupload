@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Sandipan_Productfileupload",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "Product additional file upload.",
+    "authors": [
+    {
+        "name": "Sandipan Saha",
+        "email": "sandipansaha88@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
